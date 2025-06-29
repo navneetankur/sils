@@ -1,6 +1,15 @@
 [package]
-name = "etils"
+name = "sils"
 version = "0.1.0"
 edition = "2024"
+readme = "README.md"
+homepage = "https://github.com/navneetankur/sils"
+repository = "https://github.com/navneetankur/sils"
+license = "MIT"
+keywords = ["walkdir", "utils"]
+description = "Common utils like walkdir, only std dependecy."
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
+
